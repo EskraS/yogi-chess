@@ -1,0 +1,6 @@
+{
+    "name": "Chess",
+    "description": "Finds chess board on the screenshot -> Analyzes it with stockfish -> Passes the answer to the vl model",
+    "entry": "chess-module.py",
+    "enabled": false
+}
